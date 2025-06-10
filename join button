@@ -1,0 +1,14 @@
+<button class="join-button">JOIN</button>
+<style>
+ .join-button{
+  border-color:rgb(41, 41, 230);
+  color:rgb(41, 41, 230);
+  height:36px;
+  width: 62px;px;
+  border-radius: 3px ;
+  border-style: solid;
+  background-color: white;
+  border-width: 2px;
+  cursor: pointer;
+ }
+</style>
