@@ -1,0 +1,104 @@
+<button class="request-button">Request now</button>
+<style>
+ .request-button{
+  background-color: black;
+  color: white;
+  border-radius: 0px;
+  height:36px;
+  width:105px;
+  margin-left:10px ;
+  border:none;
+ }
+</style>
+
+
+
+<button class="addtocart-button">Add to Cart</button>
+<style>
+ .addtocart-button{
+  background-color: rgb(255,216,20);
+  font-size: 15px;
+  margin-left: 8px;
+  width:150px;
+  border-radius: 36px;
+  height:26px;
+  border:none;
+  font-weight: 525;
+ }
+</style>
+
+
+<button class="signup-button">Sign up</button>
+<style>
+ .signup-button{
+  background-color: rgb(46,164,79);
+  font-weight: bold;
+  color:white;
+  border-radius: 10px;
+  border:none;
+  height:30px;
+  width:90px;
+  margin-left:9px;}
+</style>
+
+
+<button class="start-button">Get started</button>
+
+<style>
+ .start-button{
+  background-color: rgb(121,82,179);
+  height:36px;
+  width:90px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-left: 25px;
+  border-radius: 9px;
+  border:none;
+  font-weight: 580;
+  color:white;
+ }
+</style>
+
+
+<button class="download-button">Download</button>
+<style>
+  .download-button{
+    background-color: white;
+    color:rgb(108,117,125);
+    height:36px;
+    width:80px;
+    border-color:rgb(108,117,125) ;
+    border-radius: 9px;
+    margin-left: 5px;
+  }
+</style>
+
+
+<button class="apply-button">Apply on company website</button>
+<button class="save-button">Save</button>
+<style>
+  .apply-button{
+    color:white;
+    width: 250px;
+    height:30px;
+    background-color:rgb(10,102,194) ;
+    border-radius: 15px;
+    font-weight: bold;
+    border:none;
+    margin-left:50px;
+  }
+</style>
+
+
+
+
+<style>
+  .save-button{
+    color:rgb(10,102,194);
+    border-color:rgb(10,102,194);
+    height:30px;
+    width:60px;
+    border-radius:15px;
+    margin-left: 10px;
+  }
+</style>
